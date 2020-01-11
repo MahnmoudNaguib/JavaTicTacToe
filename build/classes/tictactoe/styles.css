@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Nov-2018, 14:21:09
+    Author     : Naguib
+*/
+#winMatch
+{
+    -fx-font-family:  Castellar;
+    -fx-font-size: 25;
+    -fx-font-smoothing-type: LCD ;
+    -fx-fill: darkgoldenrod;
+    -fx-font-weight: BOLD;
+    -fx-text-alignment: center;
+}
+
+#playerName
+{
+    -fx-font-family:Algerian;
+    -fx-font-size: 20;
+    -fx-font-smoothing-type: LCD ;
+    -fx-fill: darkgoldenrod;
+    -fx-font-weight: BOLD;
+    -fx-text-alignment: center;
+}
+
+#GameBoard
+{
+    -fx-background-image:url("gameboard.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch; 
+    
+}
+
+.HBox
+{
+    -fx-background-image: url("Oldmain.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;  
+    -fx-background-color: burlywood;
+/*     
+     -fx-spacing: 25;*/
+}
+
+.playerRPane
+{
+    -fx-background-image: url("rightplayerBack.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch; 
+
+}
+
+.playerLPane
+{
+    -fx-background-image: url("rightplayerBack.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch; 
+}
+
+#pane
+{
+    -fx-background-image: url("HBoxB.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;   
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+    -fx-background-size: 100%;
+
+}
+
+.stackFigure
+{
+    -fx-background-image: url("rsz_computer-screen.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch; 
+}
+
+
+
+#Button4
+{
+    -fx-background-image: url("HumanTablut.jpg");
+}
+
+#Button1
+{
+    -fx-background-image: url("rsz_1rsz.jpg");
+}
+
+#Button2
+{
+    -fx-background-image: url("rsz_stock.jpg");
+    
+}
+
+#Button3
+{
+    -fx-background-image: url("ComputerTablut.jpg");
+    -fx-background-color: transparent;
+}

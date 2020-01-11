@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 7, 2018, 7:24:40 PM
+    Author     : Alaa Ezzat
+*/
+
+#pane
+{
+    -fx-background-image: url("bg3-third.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;  
+    -fx-background-color: burlywood;
+    
+}
+
+#optionspane
+{
+    -fx-background-image: url("option_edit1.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;  
+    -fx-background-color: burlywood;
+}
+
+#whoplayspane
+{
+    -fx-background-image: url("whoplays.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;  
+    -fx-background-color: burlywood;
+    
+    
+}
+
+#newgamepane
+{
+     -fx-background-image: url("option4.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;  
+    -fx-background-color: burlywood;
+}
+
+#iwillplaybutton
+{
+     -fx-graphic: url("iwillplay.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;  
+}
+
+#youplaybutton
+{
+    -fx-graphic: url("you_play.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;  
+}
+
+#button1 {          
+    -fx-graphic: url("b-org1-bord.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;
+}
+
+#button2 {          
+    -fx-graphic: url("b-org2.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;
+}
+
+#button3 {          
+    -fx-graphic: url("b-org4.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;
+}
+
+#button4 {          
+    -fx-graphic: url("b-org3.jpg");
+    -fx-padding: 5;
+    -fx-border-style: none;
+    -fx-border-width: 0;
+    -fx-border-insets: 0;
+    -fx-background-color: transparent;
+}
